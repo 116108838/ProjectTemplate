@@ -15,6 +15,6 @@
 
 </head>
 <body>
-<?php include("form2.html") ?>
+<?php include("form21.html") ?>
 </body>
 </html>
